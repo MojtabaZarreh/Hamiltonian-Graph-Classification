@@ -2,7 +2,9 @@
 
 This repository contains a deep learning model that classifies whether a given **graph image** represents a **Hamiltonian graph** (i.e., a graph that contains a Hamiltonian cycle).
 
+
 <img width="886" height="504" alt="download (1)" src="https://github.com/user-attachments/assets/800b785f-5ddc-4c4a-a742-56243aaec814" />
+
 
 ## 📘 What is a Hamiltonian Graph?
 A **Hamiltonian graph** is a type of graph that contains a **Hamiltonian cycle** 
