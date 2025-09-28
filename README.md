@@ -1,5 +1,3 @@
-# Hamiltonian-Graph-Classification
-
 # 🧠 Hamiltonian Graph Classification
 
 This repository contains a deep learning model that classifies whether a given **graph image** represents a **Hamiltonian graph** (i.e., a graph that contains a Hamiltonian cycle).
